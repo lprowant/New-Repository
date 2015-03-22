@@ -1,2 +1,3 @@
-# New-Repository
-Practice(Optional Description)
+I changed things
+
+commit meessage - describing the changed I made
